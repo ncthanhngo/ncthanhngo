@@ -1,9 +1,42 @@
-- 👋 Hi, I’m @ncthanhngo
-- 📫 How to reach me nc.thanhngo@gmail.com 
-- 😄 Pronouns: ...
-- ⚡ Fun fact: I am lazy indeed :)
+# Hi, I'm Thanh Ngo 👋
 
-<!---
-ncthanhngo/ncthanhngo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Backend Engineer | Tech Lead | Building products at EVSELab
+
+## What I'm building
+
+🚀 AI Developer Tools
+- Claude Bar
+- GitLab Bar
+- Stash
+
+🔋 Battery Swapping Platform
+- Flutter Mobile App
+- Golang Backend
+- MQTT + IoT Integration
+
+🏢 Internal ERP & Portal
+- HR
+- Inventory
+- Knowledge Hub
+
+## Tech Stack
+
+Backend:
+Go • PostgreSQL • Redis • MQTT • Docker
+
+Frontend:
+Next.js • Flutter
+
+Cloud:
+Linux • Nginx • GitHub Actions
+
+## Current Focus
+
+- Golang Architecture
+- AI-assisted Development
+- SaaS Products
+- IoT Systems
+
+## Contact
+
+📧 nc.thanhngo@gmail.com
